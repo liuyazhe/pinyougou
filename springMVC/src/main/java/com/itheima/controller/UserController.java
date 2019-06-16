@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class UserController {
     @RequestMapping("/quick")
     public String save(){
-        System.out.println("Controller sunning....611111111111111111666");
+        System.out.println("Controller sunning....6111111115555111111111666");
             return "success.jsp";
     }
 }
